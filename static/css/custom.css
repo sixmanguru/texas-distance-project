@@ -1,0 +1,83 @@
+/* ── TDP Custom Styles ─────────────────────────────────────────── */
+
+/* Google Fonts: Oswald for headlines, Source Serif 4 for body */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+
+/* ── Color overrides ─────────────────────────────────────────── */
+/* Deep TDP navy replaces Tachyons bg-dark-blue */
+.bg-dark-blue {
+  background-color: #0a1f3c !important;
+}
+/* Nav bar sits slightly lighter */
+nav, .bg-dark-blue nav {
+  background-color: #0a1f3c;
+}
+/* Links throughout the site */
+a, .nested-links a {
+  color: #3a7bd5;
+}
+a:hover, .nested-links a:hover {
+  color: #6faaf5;
+}
+/* Post/article heading accent */
+h2 a, h3 a {
+  color: #0a1f3c;
+}
+
+/* ── Typography ──────────────────────────────────────────────── */
+h1, h2, h3, h4, h5, h6,
+.f2, .f3, .f-subheadline-l {
+  font-family: 'Oswald', 'Arial Narrow', sans-serif;
+  letter-spacing: 0.02em;
+}
+/* Site title in header — bold and large */
+header h1 {
+  font-family: 'Oswald', 'Arial Narrow', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+/* Body / article text */
+.lh-copy, article p, .nested-links p {
+  font-family: 'Source Serif 4', Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+/* ── Post list cards ─────────────────────────────────────────── */
+/* Add a left accent bar to each post summary */
+article.bb {
+  border-left: 4px solid #3a7bd5;
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+/* ── Masthead / featured image header ───────────────────────── */
+/* Darken the overlay a touch more for readability */
+header .bg-black-60 {
+  background: rgba(0, 0, 0, 0.65) !important;
+}
+
+/* ── Tables (race results posts) ─────────────────────────────── */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+  font-family: 'Oswald', sans-serif;
+  font-size: 0.9rem;
+}
+th {
+  background-color: #0a1f3c;
+  color: #fff;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+td {
+  padding: 0.4rem 0.75rem;
+  border-bottom: 1px solid #dde3ed;
+}
+tr:nth-child(even) td {
+  background-color: #f0f4fa;
+}

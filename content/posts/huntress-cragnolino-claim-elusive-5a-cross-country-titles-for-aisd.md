@@ -5,6 +5,7 @@ slug: "huntress-cragnolino-claim-elusive-5a-cross-country-titles-for-aisd"
 description: "It was a historic day for the Austin Independent School District (AISD), as two of its runners, Eva Cragnolino of Austin LASA and Colby Huntress of Austin Anderson, claimed state cross country titles in less than an hour at Old Settlers Park. Remarkably, this marked the first time an AISD runner had won a state"
 categories: ["articles"]
 tags: ["Aledo", "Austin Anderson", "cross country", "Dayton", "distance running", "Friendswood", "Georgetown", "Grapevine", "high school", "high school sports", "running", "state", "Texas", "UIL", "Weslaco East"]
+featured_image: "/images/K2-sm.jpg"
 draft: false
 ---
 

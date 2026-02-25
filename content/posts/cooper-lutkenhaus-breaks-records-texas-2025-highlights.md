@@ -5,6 +5,7 @@ slug: "cooper-lutkenhaus-breaks-records-texas-2025-highlights"
 description: "I thought I would take minute to review some of the top Texan results for the 2025 Outdoor Season now that the summer Nationals are complete. Obviously no list or conversation can start without mentioning what Cooper Lutkenhaus did at the US National Championships. I was lucky enough to be in Heyward the afternoon he"
 categories: ["articles"]
 tags: ["distance running", "Heyward", "high school", "high school sports", "Lutkenhaus", "middle distance", "National Record", "running", "Texas", "track", "UIL", "World Championships"]
+featured_image: "/images/coop-bw.jpg"
 draft: false
 ---
 

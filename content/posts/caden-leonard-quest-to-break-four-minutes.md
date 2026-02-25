@@ -5,6 +5,7 @@ slug: "caden-leonard-quest-to-break-four-minutes"
 description: "Caden Leonard stands eight hundredths of a second from becoming the third Texas high schooler in history to break the four-minute mile — a fitting capstone to one of the most decorated careers in Texas distance running history."
 categories: ["articles"]
 tags: ["Caden Leonard", "Southlake Carroll", "6A", "1600m", "mile", "cross country", "UIL", "track", "high school", "Texas"]
+featured_image: "/images/CL-bw-sm.jpg"
 draft: false
 ---
 
