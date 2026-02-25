@@ -5,7 +5,6 @@ slug: "bridgeland-girls-look-to-dominate-key-players-in-the-upcoming-race"
 description: "Defending champ Wingard is the favorite but the addition of Laney Barnes could make this interesting. Of course Easterwood could also play into the mix. I am curious how the Bridgeland girls will fit in. Will this be the race they dominate RUNNER TEAM Macy Wingard Denton Braswell Laney Barnes Houston Cyp. Woods Maya Easterwood"
 categories: ["articles"]
 tags: ["cross country", "distance running", "high school", "high school sports", "middle distance", "running", "state", "UIL"]
-featured_image: "/images/f-bw.jpg"
 draft: false
 ---
 
