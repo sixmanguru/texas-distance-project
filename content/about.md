@@ -10,4 +10,4 @@ This is a website created to cover the best runners in Texas in events 800m and 
 
 The Texas Distance Project tracks athletes across all UIL classifications, from 1A through 6A, with a focus on the 800m, 1600m, and 3200m events. We cover cross country in the fall and track in the spring, with analysis, predictions, rankings, and storytelling throughout the year.
 
-If you have a tip, a correction, or want to get in touch, reach out through the site.
+If you have a tip, a correction, or want to get in touch, e-mail texasdistanceproject@gmail.com.
