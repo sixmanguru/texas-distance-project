@@ -24,8 +24,7 @@ jobs:
         run: hugo
 
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: 2c2cc0ecae7fffa34b7ebd96f6fff637
-          command: pages deploy public/ --project-name=texas-distance-project
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: 2c2cc0ecae7fffa34b7ebd96f6fff637
+        run: npx wrangler pages deploy public/ --project-name=texas-distance-project
