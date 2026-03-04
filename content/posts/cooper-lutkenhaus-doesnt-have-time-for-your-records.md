@@ -11,7 +11,7 @@ draft: false
 
 There's a certain unspoken rule in elite track and field: you earn your way to the top. You grind through college, spend a few years getting lapped by Kenyans on the international circuit, maybe win a domestic title in your mid-twenties if you're lucky, and eventually — *eventually* — you announce yourself to the world.
 
-Cooper Lutkenhaus didn't get that memo. Possibly because he was busy studying for his AP exams.
+Cooper Lutkenhaus didn't get that memo. Possibly because he was busy studying for exams.
 
 This past Sunday in Staten Island, the 17-year-old from Texas strode to the line at the 2026 USATF Indoor Championships, surveyed a field of Olympic medalists and seasoned professionals, and proceeded to win the men's 800 meters in 1:46.68 like he had somewhere better to be. Which, given that his World Indoor Championship appearance in Poland coincides with his school's spring break, he literally does.
 
