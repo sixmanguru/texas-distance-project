@@ -4,12 +4,12 @@ date: 2026-04-05T00:00:00
 slug: "texas-relays-distance-recap"
 draft: false
 categories: ["articles"]
-tags: ["meet recap", "Texas Relays", "1600m", "3200m", "Noah Strohman", "Jaxon Asbill", "Chiara Dailey", "Iris Latta", "distance running"]
-description: "Noah Strohman, Jaxon Asbill, Chiara Dailey, and Iris Latta top a deep field at the 98th Clyde Littlefield Texas Relays as the championship season kicks into gear."
+tags: ["meet recap", "Texas Relays", "1600m", "3200m", "2000m steeplechase", "Noah Strohman", "Jaxon Asbill", "Chiara Dailey", "Iris Latta", "Cooper Ford", "Lucy Cramer", "distance running"]
+description: "Noah Strohman, Jaxon Asbill, Chiara Dailey, and Iris Latta headline a loaded 98th Clyde Littlefield Texas Relays, with Cooper Ford and Lucy Cramer adding steeplechase wins as the championship season kicks into gear."
 featured_image: "/images/TR_graphic.jpg"
 ---
 
-The 98th Clyde Littlefield Texas Relays delivered exactly what you'd expect from one of the country's most storied invitational meets: fast times, out-of-state visitors testing themselves against Texas talent, and a few performances that will carry weight well into the championship season as district meets begin this week. Here's a look at the high school distance action across all four events.
+The 98th Clyde Littlefield Texas Relays delivered exactly what you'd expect from one of the country's most storied invitational meets: fast times, out-of-state visitors testing themselves against Texas talent, and a few performances that will carry weight well into the championship season as district meets begin this week. Here's a look at the high school distance action across all six events.
 
 ---
 
@@ -110,6 +110,54 @@ The girls 3200m produced the most intriguing result of the meet. Iris Latta of S
 | 18 | Sophie Da Silva | St. Agnes Academy (TX) | 11:19.29 |
 | 19 | Taylor Peck | Prosper (TX) | 11:23.45 |
 | 20 | Kate Scudder | Rogers (AR) | 11:27.74 |
+
+---
+
+## Boys 2000m Steeplechase
+
+Austin Bowie's Cooper Ford took command of the boys 2000m steeplechase early and never looked back, winning in 6:01.74 — a sharp, clean performance in a technical event that tends to sort itself out quickly. Fort Bend Christian's Elijah Savage, who also ran the 3200m flat at this meet, crossed second in 6:07.59 and demonstrated the kind of aerobic range that should make him a factor in multiple events as the season progresses. Schertz Clemens put two runners in the top three, with Trevor Lawson taking third in 6:10.35 and Timothy Lawson finishing seventh in 6:23.36 — a strong showing for the program. The top six were all under 6:15, making for a competitive and well-contested race from wire to wire.
+
+---
+
+| Place | Athlete | School | Mark |
+|-------|---------|--------|------|
+| 1 | Cooper Ford | Austin Bowie (TX) | 6:01.74 |
+| 2 | Elijah Savage | Fort Bend Christian (TX) | 6:07.59 |
+| 3 | Trevor Lawson | Schertz Clemens (TX) | 6:10.35 |
+| 4 | Stephen McClelland | Houston Homeschool Athletics | 6:10.67 |
+| 5 | Brayden Scott | Boerne (TX) | 6:12.05 |
+| 6 | Chase Peacock | Little Cypress-Mauriceville (TX) | 6:14.65 |
+| 7 | Timothy Lawson | Schertz Clemens (TX) | 6:23.36 |
+| 8 | Aiden Lowery | Friendswood (TX) | 6:23.70 |
+| 9 | Spencer Ellis | Caldwell (TX) | 6:29.48 |
+| 10 | Isaac Flowers | Lumberton (TX) | 6:30.52 |
+| 11 | Leonidas Bendele | Central Catholic (TX) | 6:30.86 |
+| 12 | Aiden Stout | FEAST | 6:32.46 |
+| 13 | Tristan Parfait | Kingwood Park (TX) | 6:39.02 |
+| 14 | Jericho Ocampo | Houston Clear Lake (TX) | 6:53.03 |
+
+---
+
+## Girls 2000m Steeplechase
+
+Parkview Baptist's Lucy Cramer — who also ran the 3200m flat at this meet, finishing 10th in 10:53.35 — pulled double duty and came away with the girls steeplechase title in 6:50.15. IMG Academy's Huntley Buckingham, another 3200m entrant, was right behind in 6:52.27, and Austin Vandegrift's Elizabeth Mustacchia completed the podium in 6:52.48 — a span of just over two seconds separating the top three. The front of the race was tight and tactically interesting given how many of these athletes are also flat runners doubling across events. Sophia Lopez of Round Rock Stony Point took fourth in 6:59.42, the only other finisher under 7:00.
+
+| Place | Athlete | School | Mark |
+|-------|---------|--------|------|
+| 1 | Lucy Cramer | Parkview Baptist (TX) | 6:50.15 |
+| 2 | Huntley Buckingham | IMG Academy (FL) | 6:52.27 |
+| 3 | Elizabeth Mustacchia | Austin Vandegrift (TX) | 6:52.48 |
+| 4 | Sophia Lopez | Round Rock Stony Point (TX) | 6:59.42 |
+| 5 | Jenna Jacobsen | Midlothian Heritage (TX) | 7:19.20 |
+| 6 | Abby Spiars | John Paul II — Plano (TX) | 7:25.94 |
+| 7 | Willa Bock | Austin Bowie (TX) | 7:34.13 |
+| 8 | Cecilia Taft | Cuthbertson (NC) | 7:36.65 |
+| 9 | Casey Goetz | Grace Community School (TX) | 7:47.31 |
+| 10 | Diem Casselberry | Melissa (TX) | 7:48.21 |
+| 11 | Annie Carda | Omaha Duchesne Academy (NE) | 8:02.91 |
+| 12 | Sydney Parlevliet | Bridgeland (TX) | 8:07.64 |
+| 13 | Marcilete Fair | Austin Bowie (TX) | 8:14.11 |
+| 14 | Abigail Wymore | Wimberley (TX) | 8:20.28 |
 
 ---
 
