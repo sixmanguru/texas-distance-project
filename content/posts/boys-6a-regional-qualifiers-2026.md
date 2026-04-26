@@ -1,6 +1,6 @@
 ---
 title: "Boys 6A Regional Qualifiers: The Road to Austin"
-date: 2026-04-26T00:00:00
+date: 2026-04-26T12:00:00
 slug: "boys-6a-regional-qualifiers-2026"
 draft: false
 categories: ["articles"]
