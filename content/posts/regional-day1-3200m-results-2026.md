@@ -239,49 +239,49 @@ Ava Tannehill of Leander ran a five-second PR of **10:56.00**, but it just wasn'
 | Noah Garcia ★ | El Paso Eastwood | 8:50.65 |
 | Griffen Saacke ✓ | Bridgeland | 9:04.68 |
 | Elton Martin ✓ | The Woodlands | 9:04.97 |
-| Eli Mugambi ✓ | Humble Atascocita | 9:26.47 |
-| Joaquin Miranda ✓ | Houston Cyp. Creek | 9:26.64 |
 | Andrew Esparza ✓ | Round Rock | 9:09.52 |
 | Avinash Dewagan ✓ | Austin Vandegrift | 9:13.06 |
+| Eli Mugambi ✓ | Humble Atascocita | 9:26.47 |
+| Joaquin Miranda ✓ | Houston Cyp. Creek | 9:26.64 |
 
 ### Girls 6A
 | Athlete | School | Regional Time |
 |---------|--------|---------------|
 | Macy Wingard ✓ | Denton Braswell | 10:08.34 |
-| Luna Gutierrez ✓ | Carroll | 10:36.86 |
-| Emily Orr ★ | El Paso Franklin | 10:38.05 |
 | Rowan Saacke ✓ | Bridgeland | 10:31.01 |
 | Hope Smith ✓ | Bridgeland | 10:33.12 |
-| Kate Rogers ✓ | Katy Cinco Ranch | 10:53.48 |
-| Vienna Fish ✓ | Katy | 10:55.60 |
+| Luna Gutierrez ✓ | Carroll | 10:36.86 |
+| Emily Orr ★ | El Paso Franklin | 10:38.05 |
 | Sophia Lopez ✓ | Round Rock Stony Point | 10:46.79 |
 | Mia Kellogg ✓ | San Antonio Churchill | 10:50.39 |
+| Kate Rogers ✓ | Katy Cinco Ranch | 10:53.48 |
+| Vienna Fish ✓ | Katy | 10:55.60 |
 
 ### Boys 5A
 | Athlete | School | Regional Time |
 |---------|--------|---------------|
-| Andrew DeYoung ✓ | Grapevine | 9:19.58 |
-| Tyler Connelly ✓ | Aledo | 9:26.09 |
 | Andrew Malan ✓ | Frisco Lebanon Trail | 9:10.83 |
 | Hayden Gaunt ✓ | Dallas Wilson | 9:11.76 |
-| Joshua Loera ★ | North Mesquite | 9:12.17 |
 | Jaxon Asbill ✓ | Dayton | 9:11.92 |
+| Joshua Loera ★ | North Mesquite | 9:12.17 |
 | Matthew Morales ✓ | Georgetown High | 9:18.84 |
+| Andrew DeYoung ✓ | Grapevine | 9:19.58 |
 | Shawn Edwards ✓ | Boerne Champion | 9:21.72 |
 | Alexander Nava ✓ | Weslaco East | 9:22.38 |
+| Tyler Connelly ✓ | Aledo | 9:26.09 |
 
 ### Girls 5A
 | Athlete | School | Regional Time |
 |---------|--------|---------------|
-| Molly Garrison ✓ | Aledo | 10:52.24 |
-| Madison Carroll ✓ | White Settlement Brewer | 11:00.01 |
-| Lily Schmidt ✓ | Frisco Wakeland | 10:43.65 |
-| Julia Seelman ✓ | Frisco Reedy | 10:47.58 |
 | Morgan Nelsen ✓ | Hendrickson | 10:39.67 |
 | Eva Cragnolino ✓ | Austin LASA | 10:42.67 |
-| Haylee Hughes ★ | Lake Creek | 10:50.01 |
+| Lily Schmidt ✓ | Frisco Wakeland | 10:43.65 |
+| Julia Seelman ✓ | Frisco Reedy | 10:47.58 |
 | Lilly Koenig ✓ | Smithson Valley | 10:47.82 |
+| Haylee Hughes ★ | Lake Creek | 10:50.01 |
 | Jessica De Leon ✓ | Harlingen South | 10:50.66 |
+| Molly Garrison ✓ | Aledo | 10:52.24 |
+| Madison Carroll ✓ | White Settlement Brewer | 11:00.01 |
 
 *✓ Auto qualifier · ★ Wild card*
 
